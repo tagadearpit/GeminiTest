@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class GeminiTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
-        String apiKey = "AIzaSyAAJikm3bL-b4pl6q7a0xtP3UDz6c8jHgE";
+        String apiKey = "gemini_api_key_2.5_flash";
 
         // Enter question from terminal
         System.out.print("Enter your question: ");
